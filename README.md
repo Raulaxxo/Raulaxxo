@@ -14,7 +14,7 @@ Soy ingeniero en redes titulado de Duoc UC, con más de 3 años de experiencia c
 
 ## 📫 Cómo contactarme
 
-- ✉️ raulaxxo@gmail.com
+- ✉️ ra.gotterban@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/raulaxxo)
 - 🧠 Siempre aprendiendo y compartiendo: ¡consultas técnicas bienvenidas!
 
