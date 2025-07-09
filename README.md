@@ -1,6 +1,6 @@
 # 👋 Hola, soy Raúl Silva Gotterban
 
-🎯 **Ingeniero Cloud & Redes | Automatizador DevOps | Soluciones IT a medida**
+🎯 **Ingeniero Cloud & Redes | DevOps | AWS | GCP |
 
 Soy ingeniero en redes titulado de Duoc UC, con más de 3 años de experiencia como **Ingeniero Cloud de Infraestructura** trabajando con **AWS**, **GCP**, **Docker**, **Terraform**, y más.
 
