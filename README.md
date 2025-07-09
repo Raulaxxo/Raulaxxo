@@ -18,6 +18,9 @@ Soy ingeniero en redes titulado de Duoc UC, con más de 3 años de experiencia c
 - 💼 [LinkedIn](https://www.linkedin.com/in/raulaxxo)
 - 🧠 Siempre aprendiendo y compartiendo: ¡consultas técnicas bienvenidas!
 
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Raulaxxo/Raulaxxo)
+
 ---
 
 > “Automatizar lo repetitivo, asegurar lo importante, y escalar lo eficiente.”
